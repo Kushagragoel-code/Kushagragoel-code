@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hero.svg" alt="Kushagra Goel - Full Stack Developer | MERN, Python, DSA" width="100%"/>
+  <img src="./banner.svg" alt="Kushagra Goel - Full Stack Developer | MERN, Python, DSA" width="100%"/>
 </div>
 
 <br/>
