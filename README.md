@@ -2,6 +2,10 @@
   <img src="./hero.svg" alt="Kushagra Goel - Full Stack Developer | MERN, Python, DSA" width="100%"/>
 </div>
 
+<br/>
+
+<img src="./stats.svg" alt="600+ DSA problems solved. CodeChef 2 star. MERN as core stack, plus Python." width="100%"/>
+
 ## About
 
 Full stack developer working with the MERN stack and Python. I build web applications end to end and use Pandas and NumPy for data work. I also practice data structures and algorithms and compete on CodeChef and Codeforces.
@@ -9,6 +13,10 @@ Full stack developer working with the MERN stack and Python. I build web applica
 ## Tech stack
 
 <img src="./stack.svg" alt="Tech stack. Full stack: MongoDB, Express.js, React, Node.js, JavaScript. Python and data: Python, Pandas, NumPy. Problem solving and tools: DSA, Git, GitHub." width="100%"/>
+
+## How I build
+
+<img src="./flow.svg" alt="Architecture: React front end talks to a Node.js and Express API over HTTP and JSON. The API queries MongoDB. Python, Pandas and NumPy handle data analysis and scripting." width="100%"/>
 
 ## Problem solving
 
