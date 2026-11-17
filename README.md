@@ -1,5 +1,3 @@
-<!-- Replace: Kushagragoel-code (GitHub), YOUR_CODECHEF_HANDLE, Kushagra Goel inside hero.svg, and the links at the bottom -->
-
 <div align="center">
 
 <!-- Animated hero: dots fly in and form your profile -->
@@ -77,9 +75,13 @@ me.say_hi()
 |:--------:|:-----------:|
 | 🧩 **DSA** | **600+** problems solved |
 | 👨‍🍳 **CodeChef** | **2★** coder |
+| ⚔️ **Codeforces** | Active competitor |
 
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_HANDLE">
+<a href="https://www.codechef.com/users/kushagra_goel0">
   <img src="https://img.shields.io/badge/View%20CodeChef%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef"/>
+</a>
+<a href="https://codeforces.com/profile/Kushagra_goel">
+  <img src="https://img.shields.io/badge/View%20Codeforces%20Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/>
 </a>
 
 </div>
@@ -88,12 +90,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kushagragoel-code/Kushagragoel-code/output/github-snake-dark.svg" alt="snake" width="100%"/>
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kushagragoel-code&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies"/>
 </div>
 
 ## 🌱 Currently
@@ -109,7 +105,8 @@ me.say_hi()
 
 <a href="https://www.linkedin.com/in/kushagra-goel-954a46380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kushagragoelgg2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_HANDLE"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/kushagra_goel0"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Kushagra_goel"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
 <br/><br/>
 
