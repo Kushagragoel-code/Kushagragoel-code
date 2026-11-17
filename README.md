@@ -1,4 +1,4 @@
-<!-- Replace: YOUR_USERNAME (GitHub), YOUR_CODECHEF_HANDLE, Kushagra Goel inside hero.svg, and the links at the bottom -->
+<!-- Replace: Kushagragoel-code (GitHub), YOUR_CODECHEF_HANDLE, Kushagra Goel inside hero.svg, and the links at the bottom -->
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00d9f5&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=Kushagragoel-code&label=Profile%20Views&color=00d9f5&style=for-the-badge" alt="views"/>
 <img src="https://img.shields.io/badge/Problems%20Solved-600%2B-00f5a0?style=for-the-badge&logo=leetcode&logoColor=white" alt="dsa"/>
 <img src="https://img.shields.io/badge/CodeChef-2%E2%98%85-a855f7?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef"/>
 
@@ -61,12 +61,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d9f5&include_all_commits=true" alt="stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0" alt="langs"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kushagragoel-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d9f5&include_all_commits=true" alt="stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagragoel-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0" alt="langs"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5a0&fire=a855f7&currStreakLabel=00d9f5" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Kushagragoel-code&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5a0&fire=a855f7&currStreakLabel=00d9f5" alt="streak"/>
 </div>
 
 ## 🧠 Competitive Programming
@@ -87,13 +87,13 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Kushagragoel-code/Kushagragoel-code/output/github-snake-dark.svg" alt="snake" width="100%"/>
 </div>
 
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kushagragoel-code&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies"/>
 </div>
 
 ## 🌱 Currently
